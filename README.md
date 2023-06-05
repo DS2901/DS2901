@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![ef2db0885d94fd149a4b7914923bb2a3](https://github.com/DS2901/DS2901/assets/107350736/0a627ac0-ce16-4e51-9863-943c155a6d79)
+<img src="![ef2db0885d94fd149a4b7914923bb2a3](https://github.com/DS2901/DS2901/assets/107350736/0a627ac0-ce16-4e51-9863-943c155a6d79)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds2901&label=Profile%20views&color=0e75b6&style=flat" alt="ds2901" /> </p>
 
