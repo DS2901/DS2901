@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <img src="![ef2db0885d94fd149a4b7914923bb2a3](https://github.com/DS2901/DS2901/assets/107350736/0a627ac0-ce16-4e51-9863-943c155a6d79)"/>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chatapp**
 
-- 🌱 I’m currently learning **backend with MERN**
+- 🌱 I’m currently learning **backend**
 
 - 💬 Ask me about **react, javascript**
 
