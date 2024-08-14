@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds2901&label=Profile%20views&color=0e75b6&style=flat" alt="ds2901" /> </p>
 
-- 🔭 I’m currently working on **Chatapp**
 
-- 🌱 I’m currently learning **backend**
+- 🌱 currently expanding my skills in **backend development**.
 
 - 💬 Ask me about **react, javascript**
 
